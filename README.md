@@ -1,2 +1,8 @@
-# hg_1_bravo
-Hack Pull Request 1
+# Bravo
+
+| Usuario       | Nombre        | Ubicación
+| ------------- | ------------- | ------------- |
+| Alfa          | Eduardo       | Caracas
+| Bravo         | Sebastián     | Valencia
+| Charlie       | Jessica       | Caracas
+| Delta         | Yoel          | Caracas
